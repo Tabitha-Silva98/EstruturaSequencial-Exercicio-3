@@ -1,4 +1,4 @@
-## Getting Started
+## Faca um Programa que peca dois numeros e imprima a soma.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
